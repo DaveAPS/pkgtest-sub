@@ -11,7 +11,7 @@
     "url": "git@github.com:DaveAPS/pkgtest-sub.git"
   },
   "devDependencies": {
-    "lodash": "latest",
+    "lodash": "latest"
   },
   "author": "",
   "license": "ISC"
