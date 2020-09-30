@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:DaveAPS/pkgtest-sub.git"
   },
-  "devDependencies": {
+  "dependencies": {
     "lodash": "latest"
   },
   "author": "",
